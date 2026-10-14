@@ -1,1 +1,1 @@
-{"name":"我的購物清單","short_name":"購物清單","start_url":"./","scope":"./","display":"standalone","background_color":"#eee9e6","theme_color":"#eee9e6","lang":"zh-Hant","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{"name":"我的購物清單","short_name":"購物清單","start_url":"./","scope":"./","display":"standalone","background_color":"#d9eff7","theme_color":"#d9eff7","lang":"zh-Hant","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
